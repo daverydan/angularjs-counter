@@ -1,4 +1,3 @@
-angular.module('counter', []);
 angular
   .module('counter', [])
   .controller('CounterController', CounterController);
